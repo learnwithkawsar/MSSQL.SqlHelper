@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>MSSQL.SqlHelper</id>
+    <version>1.0.0</version>
+    <authors>Kawsar Ahmed</authors>
+    <owners>Kawsar Ahmed</owners>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/learnwithkawsar/MSSQL.SqlHelper</projectUrl>
+    <iconUrl>https://cdn2.iconfinder.com/data/icons/web-and-mobile-ui-volume-7/48/309-512.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>SQLHelper is a simple class to help with MSSQL databases</description>
+    <releaseNotes>Create Helper Libray.</releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>SQL SQLSERVER MMSQL MICOROSOFT DATABASE DATA</tags>
+    <dependencies>
+      
+    </dependencies>
+	
+  </metadata>
+  <files>
+  <file src="MSSQL.SqlHelper\bin\Debug\MSSQL.SqlHelper.dll" target="lib"/>
+  </files>
+</package>
